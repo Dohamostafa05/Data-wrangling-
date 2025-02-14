@@ -1,0 +1,22 @@
+# README
+
+## Project Overview
+This project involves data wrangling and business insights extraction from the supermarket sales dataset. The primary objectives are:
+- Cleaning and preparing the data for analysis.
+- Extracting valuable business insights to support decision-making.
+
+## Files Included
+- **Data Wrangling Report**: Summarizes the data cleaning and transformation process.
+- **Business Insights Report**: Highlights key findings and trends from the dataset.
+
+## How to Use
+1. Review the **Data Wrangling Report** to understand the preprocessing steps.
+2. Check the **Business Insights Report** for analytical insights.
+3. Use these findings to make data-driven business decisions.
+
+## Requirements
+- Python
+- Pandas, NumPy, Seaborn, Matplotlib, Plotly
+
+## Contact
+For any inquiries, please reach out to the project team.
